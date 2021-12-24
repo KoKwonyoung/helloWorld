@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ko">
 	<head>
-		<meta charset="utf-8">
+		<meta> charset="UTF-8"
 		<title>웹 문서 만들기</title>
 		<link rel="stylesheet" href="./css/style.css">
 		<script src="./javascript/basic.js"></script>
@@ -18,10 +18,9 @@
 		</header>
 		<nav>
 			<ul>
-				<li><a href="./html/resume.html">이력서</a></li>
-				<li><a href="./html/table.html">테이블</a></li>
-				<li><a href="./html/list.html">리스트</a></li>
-				<li><a href="./html/main.html">메인페이지</a></li>
+				<li>모자</li>
+				<li>가방</li>
+				<li>신발</li>
 			</ul>
 		</nav>
 		<main>
@@ -32,9 +31,8 @@
 			<p>자바스크립트</p>
 			<h2>고권영입니다.</h2>
 			<h3>html, css, javascript</h3>
-			<!-- <a href="https://www.daum.net">다음 사이트</a>
+			<a href="https://www.daum.net">다음 사이트</a>
 			<a href="./html/main.html">main page</a>
-			<a href="html/resume.html">이 력 서</a> -->
 		</main>
 		<footer>
 			&copy;Yedam.com
